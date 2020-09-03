@@ -1,16 +1,3 @@
-# Tanner Hobbs Hobbs131
-
-# I understand this is a graded, individual examination that may not be
-# discussed with anyone. I also understand that obtaining solutions or
-# partial solutions from outside sources, or discussing
-# any aspect of the examination with anyone will result in failing the course.
-# I further certify that this program represents my own work and that none of
-# it was obtained from any source other than material presented as part of the
-# course
-
-# Graders note: all exam and extra credit tasks completed.
-
-
 from turtle import *
 import tkinter.messagebox
 import tkinter
